@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Docksgit (Check my linkein for my REAL name!)</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Docksgit (Check my linkedin for my REAL name!)</h1></summary>
   </ul>
 </div>
 
@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **to put together multiple data source into data plumbing for analytics**
 
-- ☁️ I've keen interest in everything to support my data engineering skill. So, I'm learning **Python, SQL, Clouda/On-Premise Environment, Orchestration, Data Modeling, etc.**
+- ☁️ I've keen interest in everything to support my data engineering skill. So, I'm learning **Python, SQL, Cloud/On-Premise Environment, Orchestration, Data Modeling, etc.**
 
 - 💬 Ask me about anything related to **data engineering**
 
