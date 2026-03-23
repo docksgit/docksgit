@@ -6,7 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Rifqi Ramadhani)<!--(Check my <a href="https://www.linkedin.com/in/rifqisyahr/" target="_blank">Linkedin</a> for my actual name!)--></h1>
+      <h1 style="display: inline-block">Hi 👋, I'm Rifqi Ramadhani<!--(Check my <a href="https://www.linkedin.com/in/rifqisyahr/" target="_blank">Linkedin</a> for my actual name!)--></h1>
       </br>
       <h4 align="center">I am a Fraud Data Analyst with data engineering and analytics background</h4>
     </summary>
