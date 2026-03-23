@@ -8,7 +8,7 @@
     <summary>
       <h1 style="display: inline-block">Hi 👋, I'm Dock<!--(Check my <a href="https://www.linkedin.com/in/rifqisyahr/" target="_blank">Linkedin</a> for my actual name!)--></h1>
       </br>
-      <h4 align="center">I am a Junior Data Engineer with data science and analytics background</h4>
+      <h4 align="center">I am a Fraud Data Analyst with data engineering and analytics background</h4>
     </summary>
   </ul>
 </div>
